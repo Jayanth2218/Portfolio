@@ -22,7 +22,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import veeRuby from "./company/veeRuby.jpg"
+import VeeRuby from "../assets/company/VeeRuby.jpg"
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -57,7 +57,7 @@ export {
   threejs,
   meta,
   Rbook,
-  veeRuby,
+  VeeRuby,
   shopify,
   starbucks,
   tesla,

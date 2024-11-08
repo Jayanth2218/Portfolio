@@ -21,7 +21,7 @@ import {
   starbucks,
   tesla,
   Rbook,
-  veeRuby,
+  VeeRuby,
   shopify,
   carrent,
   jobit,
@@ -110,7 +110,7 @@ const experiences = [
  {
     title: "Software Engieer Intern",
     company_name: "VeeRuby",
-    icon: veeRuby,
+    icon: VeeRuby,
     iconBg: "#383E56",
     date: "Oct 2024 - Present",
     points: [
